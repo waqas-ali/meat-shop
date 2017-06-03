@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.hola.meatshop"
+    },
+    "jhipsterVersion": "4.5.1",
+    "baseName": "meatshopservices",
+    "packageName": "com.hola.meatshop",
+    "packageFolder": "com/hola/meatshop",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "fd3ecd547652a4b0a67674f1db6813f29e692e5b",
+    "enableTranslation": false
+  }
+}
